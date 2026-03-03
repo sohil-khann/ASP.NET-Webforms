@@ -1,0 +1,40 @@
+PROJECT: FS Bookstore Application in Webforms
+
+MODULES & FEATURES:
+
+1. USER MANAGEMENT
+    - User Registration (new account creation with validation)
+    - User Login (authentication with session management)
+    - Password Management (reset/change password functionality)
+    - User Profile Management
+
+2. PRODUCT CATALOG
+    - Show Books (display with search & filtering)
+    - Book Details (title, author, price, description, ratings)
+    - Book Categories/Genres
+    - Stock Management
+
+3. SHOPPING FEATURES
+    - Add to Cart (manage cart items)
+    - Remove from Cart
+    - Update Quantity in Cart
+    - Cart Summary (total price calculation)
+    - Add to Wishlist (save books for later)
+    - Wishlist Management (view, move to cart, remove)
+
+4. ORDER MANAGEMENT
+    - Place Order (checkout process)
+    - Payment Integration
+    - Order Confirmation
+    - Show Order History (GridView display)
+    - Order Status Tracking
+    - Order Details View
+
+5. DATABASE ENTITIES
+    - Users, Products (Books), Cart, Wishlist, Orders, OrderDetails
+
+6. UI COMPONENTS
+    - Master Page (navigation)
+    - GridView Controls (data display)
+    - Validation (client & server-side)
+    - Error Handling

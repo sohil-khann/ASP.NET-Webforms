@@ -1,0 +1,36 @@
+FS Pharmacy Management System (WebForms Project)
+🔹 Modules:
+
+-User Registration & Login
+-Password Management
+-Show Medicines
+-Add to Cart
+-Add to Wishlist
+-Place Order
+-Order History (GridView)
+-Admin Add/Edit/Delete Medicines
+
+🔹 Extra Feature:
+
+-Expiry Date Tracking
+-Prescription Upload
+-------------------------------
+Common Database Tables 
+
+-Users
+-Products / Items
+-Categories
+-Cart
+-Wishlist
+-Orders
+-OrderDetails
+-Admin
+
+------------------------------
+Technologies:
+
+-ASP.NET WebForms
+-SQL Server
+-ADO.NET
+-GridView
+-Session Management
