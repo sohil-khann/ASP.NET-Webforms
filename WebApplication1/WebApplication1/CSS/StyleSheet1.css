@@ -1,0 +1,31 @@
+﻿body {
+background-color:aquamarine;
+margin:auto;
+padding:0;
+
+}
+.contactlink{
+text-decoration-color:blue;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.img{
+width:50vw;
+height:60vw;
+border:3px;
+border-radius:2px;
+
+}
+.img1 {
+    width: 50vw;
+    height: 60vw;
+    border: 3px;
+    border-radius: 2px;
+    margin-top:30px;
+}
+.val {
+    margin: 50px auto;
+    border: 3px solid blanchedalmond;
+    padding: 20px;
+    width: 300px;
+}
