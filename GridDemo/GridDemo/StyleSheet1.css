@@ -1,0 +1,25 @@
+﻿.input {
+    width: 250px;
+    padding: 10px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.btn {
+    background-color: #0078D7;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+    .btn:hover {
+        background-color: #005a9e;
+    }
+
+.message {
+    color: red;
+    font-weight: bold;
+}
